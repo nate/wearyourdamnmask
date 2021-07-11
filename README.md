@@ -1,5 +1,7 @@
 # Wear Your Damn Mask
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/059513f5-57e7-452f-b44c-13e18983df5b/deploy-status)](https://app.netlify.com/sites/clever-jang-d57af0/deploys)
+
 The site build scripts for [https://wearyourdamnma.sk](https://wearyourdamnma.sk).
 
 Patches welcome if you want to add more disturbing facts.
